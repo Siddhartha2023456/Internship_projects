@@ -9,4 +9,4 @@ Here is the brief overview:
 
 3.Creating an initial solution of TSP using Google OR tools and set this solution as an warm start to reduce the runtime.
 
-4.Further optimizing the code by reducing no. of variables using domain knowledge of TSP(the salesman will traverse from one city to its top k nearest cities).
+4.Further optimizing the code by reducing no. of variables using domain knowledge of TSP(1.the salesman will traverse from one city to its top k nearest cities, 2.Salesman will be traverse from one city to another city within x km).
