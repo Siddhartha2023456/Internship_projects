@@ -3,7 +3,7 @@ Welcome to my repository! Here I have included the works I have done during my i
 
 Here is the brief overview:
 
-1.Formulate TSP problem using Gurobi software for 100 cities.
+1.Formulate TSP problem and solve in different solvers(ex-Gurobi,CBC) for 100 cities.
 
 2.Tuning the parameters of Gurobi solver to optimize the code.
 
