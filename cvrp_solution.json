@@ -1,0 +1,151 @@
+{
+    "objective": 97818,
+    "routes": [
+        {
+            "vehicle_id": 0,
+            "route": [
+                {
+                    "location": 0,
+                    "cumulative_volume": 0,
+                    "cumulative_weight": 0
+                },
+                {
+                    "location": 5,
+                    "cumulative_volume": 117,
+                    "cumulative_weight": 76
+                },
+                {
+                    "location": 3,
+                    "cumulative_volume": 675,
+                    "cumulative_weight": 306
+                },
+                {
+                    "location": 4,
+                    "cumulative_volume": 732,
+                    "cumulative_weight": 345
+                },
+                {
+                    "location": 0,
+                    "cumulative_volume": 732,
+                    "cumulative_weight": 345
+                }
+            ],
+            "route_cost": 27797,
+            "route_volume": 732,
+            "route_weight": 345
+        },
+        {
+            "vehicle_id": 1,
+            "route": [
+                {
+                    "location": 0,
+                    "cumulative_volume": 0,
+                    "cumulative_weight": 0
+                },
+                {
+                    "location": 6,
+                    "cumulative_volume": 538,
+                    "cumulative_weight": 258
+                },
+                {
+                    "location": 0,
+                    "cumulative_volume": 538,
+                    "cumulative_weight": 258
+                }
+            ],
+            "route_cost": 46800,
+            "route_volume": 538,
+            "route_weight": 258
+        },
+        {
+            "vehicle_id": 2,
+            "route": [
+                {
+                    "location": 0,
+                    "cumulative_volume": 0,
+                    "cumulative_weight": 0
+                },
+                {
+                    "location": 1,
+                    "cumulative_volume": 265,
+                    "cumulative_weight": 150
+                },
+                {
+                    "location": 7,
+                    "cumulative_volume": 409,
+                    "cumulative_weight": 213
+                },
+                {
+                    "location": 2,
+                    "cumulative_volume": 494,
+                    "cumulative_weight": 263
+                },
+                {
+                    "location": 0,
+                    "cumulative_volume": 494,
+                    "cumulative_weight": 263
+                }
+            ],
+            "route_cost": 23221,
+            "route_volume": 494,
+            "route_weight": 263
+        },
+        {
+            "vehicle_id": 3,
+            "route": [
+                {
+                    "location": 0,
+                    "cumulative_volume": 0,
+                    "cumulative_weight": 0
+                },
+                {
+                    "location": 0,
+                    "cumulative_volume": 0,
+                    "cumulative_weight": 0
+                }
+            ],
+            "route_cost": 0,
+            "route_volume": 0,
+            "route_weight": 0
+        },
+        {
+            "vehicle_id": 4,
+            "route": [
+                {
+                    "location": 0,
+                    "cumulative_volume": 0,
+                    "cumulative_weight": 0
+                },
+                {
+                    "location": 0,
+                    "cumulative_volume": 0,
+                    "cumulative_weight": 0
+                }
+            ],
+            "route_cost": 0,
+            "route_volume": 0,
+            "route_weight": 0
+        },
+        {
+            "vehicle_id": 5,
+            "route": [
+                {
+                    "location": 0,
+                    "cumulative_volume": 0,
+                    "cumulative_weight": 0
+                },
+                {
+                    "location": 0,
+                    "cumulative_volume": 0,
+                    "cumulative_weight": 0
+                }
+            ],
+            "route_cost": 0,
+            "route_volume": 0,
+            "route_weight": 0
+        }
+    ],
+    "total_cost": 97818,
+    "total_volume": 1764,
+    "total_weight": 866
+}
